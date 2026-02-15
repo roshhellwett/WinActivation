@@ -46,10 +46,9 @@ Clone the repository:
 git clone https://github.com/roshhellwett/WinActivation.git
 cd WinActivation
 ```
+---
 
+© 2026 [Zenith Open Source Projects](https://zenithprojects.up.railway.app/). All Rights Reserved.  
+Zenith is a Open Source Project Idea's by @roshhellwett
 
-
-
-
-
-
+---
